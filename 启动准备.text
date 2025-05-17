@@ -4,7 +4,7 @@
 
 2 : pkg install python -y
 
-3 : git clone https://github.com/Javx-CV/Javx-DDOS.git
+3 : git clone https://github.com/Javx-CV/Javx-DDOS
 
 4 : cd Javx-DDOS
 
