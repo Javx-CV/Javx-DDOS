@@ -1,0 +1,13 @@
+下载并跟新 termux 或 kali 
+
+1 : pkg install git -y
+
+2 : pkg install python -y
+
+3 : git clone 
+
+4 : cd Javx-DDOS
+
+5 : python3 java-ddos.py
+
+6  .:. 就可以使用了 （！！！免责声明 可用于测试 ！自己！ 的网站 -/- 不要用于违法用途 ！！！）
