@@ -33,9 +33,9 @@ print("""----------------------------------------------
 0        00 0        00 000     000 00       00
 ----------- ----------- ----------- -----------""")
 print()
-print("github   : https://github.com/AndkCqX/DDOS-Cor-X-AndkCqX")
-print("Telegram : @AndkCq")
-print("           CQ or DrakMatter | From Cor X")
+print("github   : https://github.com/Javx-CV/Javx-DDOS")
+print("Telegram : @SpaceGhost_n ")
+print("           From _ Javx-n ")
 print()
 ip = input("Attack-IP : ")
 port = int(input("port : "))
